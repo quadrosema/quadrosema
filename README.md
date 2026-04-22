@@ -20,5 +20,5 @@ AI & Data Science student focused on multimodal AI systems, NLP, and real-time a
 - Building stronger project documentation and deployment-ready repos
 
 ## Links
-- LinkedIn: https://linkedin.com/in/amer-alomari
+- LinkedIn: www.linkedin.com/in/amer-alomari-
 - GitHub: https://github.com/quadrosema
