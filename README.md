@@ -31,6 +31,8 @@ I build AI systems that connect **reasoning to action**: agents that coordinate 
 <sub>01 &nbsp; / &nbsp; INDEPENDENT PROJECT</sub>
 <h3><a href="https://github.com/quadrosema/Quadro-AI-assistant">Quadro ↗</a></h3>
 <p><b>Personal computer agent</b></p>
+<p><a href="https://github.com/quadrosema/Quadro-AI-assistant"><img src="https://raw.githubusercontent.com/quadrosema/quadrosema/main/assets/quadro-interface.jpg" width="100%" alt="Quadro desktop interface with isolated sample conversations" /></a></p>
+<p><sub>Isolated desktop UI preview. Internal Jarvis branding remains; this is not a live agent execution demo.</sub></p>
 <p>Developed solo since October 2025. The current local build combines a stateful supervisor, specialist agents, voice, screen understanding, retrieval memory and Windows automation, with a desktop interface and approval gates for destructive actions.</p>
 <p><b>Long-term ambition:</b> carry out almost any task a person can perform on their computer. Development is ongoing; the public code is an earlier prototype, with the current architecture documented in the README.</p>
 <p><code>LangGraph</code> <code>PySide6</code> <code>ChromaDB</code></p>
@@ -39,6 +41,8 @@ I build AI systems that connect **reasoning to action**: agents that coordinate 
 <sub>02 &nbsp; / &nbsp; HACKATHON FINALIST</sub>
 <h3><a href="https://github.com/atrix187/AgentGuard">AgentGuard ↗</a></h3>
 <p><b>AI-assisted transaction security</b></p>
+<p><a href="https://github.com/atrix187/AgentGuard"><img src="https://raw.githubusercontent.com/quadrosema/quadrosema/main/assets/agentguard-interface.jpg" width="100%" alt="AgentGuard mock demo showing risk flags, simulator network checks, a step-up decision and audit trail" /></a></p>
+<p><sub>Built-in mock demo with simulated network signals.</sub></p>
 <p>I owned the entire AI pipeline within a five-person cybersecurity team: LangGraph risk evaluation, LLM integration, structured output validation and fail-closed decision handling.</p>
 <p>The team combined AI reasoning with network verification signals for approval, step-up verification and blocking decisions.</p>
 <p><b>GSMA MENA Ignite Open Gateway Hackathon finalist</b> — final results pending.</p>
@@ -49,6 +53,8 @@ I build AI systems that connect **reasoning to action**: agents that coordinate 
 <td width="50%" valign="top">
 <sub>03 &nbsp; / &nbsp; FULL-STACK AI</sub>
 <h3><a href="https://github.com/quadrosema/academic-intelligence-platform">Academic Intelligence Platform ↗</a></h3>
+<p><a href="https://github.com/quadrosema/academic-intelligence-platform"><img src="https://raw.githubusercontent.com/quadrosema/quadrosema/main/assets/academic-interface.jpg" width="100%" alt="Actual Academic Intelligence React dashboard populated with synthetic preview fixtures" /></a></p>
+<p><sub>Actual React frontend with synthetic fixtures; no backend inference was run for this capture.</sub></p>
 <p>A full-stack academic analysis application combining a saved risk classifier, semantic course ranking and a three-node guidance workflow. A usable dashboard connects inference to persistent prediction and recommendation history.</p>
 <p><sub>Model evaluation uses synthetic data.</sub></p>
 <p><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
@@ -56,11 +62,22 @@ I build AI systems that connect **reasoning to action**: agents that coordinate 
 <td width="50%" valign="top">
 <sub>04 &nbsp; / &nbsp; SEMANTIC RETRIEVAL</sub>
 <h3><a href="https://github.com/quadrosema/semantic-course-recommender">Semantic Course Recommender ↗</a></h3>
+<p><a href="https://github.com/quadrosema/semantic-course-recommender"><img src="https://raw.githubusercontent.com/quadrosema/quadrosema/main/assets/course-cover.png" width="100%" alt="Semantic Course Recommender project cover illustrating skills, embeddings and ranked courses" /></a></p>
+<p><sub>API project · illustrated workflow cover.</sub></p>
 <p>LLM skill extraction, sentence embeddings and cosine ranking, exposed through an API and an orchestration workflow with database-backed course data and recommendation logging.</p>
 <p><code>MiniLM</code> <code>LangGraph</code> <code>Flask</code> <code>SQLite</code></p>
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>Inside Quadro — animated architecture</b></summary>
+
+![Quadro current development architecture](https://raw.githubusercontent.com/quadrosema/quadrosema/main/assets/quadro-architecture.svg)
+
+Illustrated routing in the current local build. Public source remains an earlier prototype. [Architecture notes ↗](https://github.com/quadrosema/Quadro-AI-assistant#current-development-architecture)
+
+</details>
 
 ### Model lab
 
