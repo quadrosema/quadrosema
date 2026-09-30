@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="94" viewBox="0 0 960 94" role="img" aria-labelledby="title">
+<title id="title">Engineering stack: Python, LangGraph, FastAPI, PostgreSQL, PyTorch, ChromaDB, Whisper, Git and Windows automation.</title>
+<style>text{font:600 12px Segoe UI,Arial,sans-serif}</style>
+<g transform="translate(0,4)"><rect width="112" height="32" rx="8" fill="#111827" stroke="#334155"/><circle cx="15" cy="16" r="3" fill="#67e8f9"/><text x="27" y="20" fill="#67e8f9">Python</text></g>
+<g transform="translate(122,4)"><rect width="130" height="32" rx="8" fill="#111827" stroke="#334155"/><circle cx="15" cy="16" r="3" fill="#a78bfa"/><text x="27" y="20" fill="#a78bfa">LangGraph</text></g>
+<g transform="translate(262,4)"><rect width="118" height="32" rx="8" fill="#111827" stroke="#334155"/><circle cx="15" cy="16" r="3" fill="#5eead4"/><text x="27" y="20" fill="#5eead4">FastAPI</text></g>
+<g transform="translate(390,4)"><rect width="140" height="32" rx="8" fill="#111827" stroke="#334155"/><circle cx="15" cy="16" r="3" fill="#93c5fd"/><text x="27" y="20" fill="#93c5fd">PostgreSQL</text></g>
+<g transform="translate(540,4)"><rect width="124" height="32" rx="8" fill="#111827" stroke="#334155"/><circle cx="15" cy="16" r="3" fill="#fdba74"/><text x="27" y="20" fill="#fdba74">PyTorch</text></g>
+<g transform="translate(674,4)"><rect width="130" height="32" rx="8" fill="#111827" stroke="#334155"/><circle cx="15" cy="16" r="3" fill="#f9a8d4"/><text x="27" y="20" fill="#f9a8d4">ChromaDB</text></g>
+<g transform="translate(0,49)"><rect width="117" height="32" rx="8" fill="#111827" stroke="#334155"/><circle cx="15" cy="16" r="3" fill="#c4b5fd"/><text x="27" y="20" fill="#c4b5fd">Whisper</text></g>
+<g transform="translate(127,49)"><rect width="81" height="32" rx="8" fill="#111827" stroke="#334155"/><circle cx="15" cy="16" r="3" fill="#fca5a5"/><text x="27" y="20" fill="#fca5a5">Git</text></g>
+<g transform="translate(218,49)"><rect width="203" height="32" rx="8" fill="#111827" stroke="#334155"/><circle cx="15" cy="16" r="3" fill="#67e8f9"/><text x="27" y="20" fill="#67e8f9">Windows automation</text></g>
+</svg>
